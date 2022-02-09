@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Travel to Konya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mevlana">Mevlana Museum is a museum that has been operating since 1926 in the building complex in Konya, which used to be Mevlana\'s lodge. It is also known as &quot;Mevlana Tomb&quot;. The tomb of Mevlana, called (Green Dome), was built on four elephant feet (thick columns). After that day, the building activities never ended and continued with the additions made until the end of the 19th century. The fact that some of the Ottoman sultans belonged to the Mevlevi order ensured that the tomb was given special importance and well protected.</string>
+    <string name="mevlana_name">Mevlana Museum</string>
+    <string name="button">GO TO LOCATION</string>
+    <string name="akyokus">It is a hill where you can see the city of Konya completely. Especially in the evening, it offers a unique view with the lights of the city. If you have time, we recommend that you make a reservation for dinner at the restaurant in Akyokuş.</string>
+    <string name="Alaeddin_name">Alaeddin Mosque</string>
+    <string name="alaeddin">The Alâeddin Mosque is the principal monument on the citadel of Konya, Turkey. The building served as the &quot;Mosque of the Throne&quot; for the Seljuq Sultans of Rum and contains the dynastic mausoleum. It was constructed in stages between the mid-12th and mid-13th centuries. Both the citadel and the mosque bear the name of sultan Ala al-Din Kayqubad I (Alâeddin Tepesi and Alâeddin Camii).</string>
+    <string name="catalhoyuk">Çatalhöyük is a very large Neolithic Age and Chalcolithic Age settlement in Central Anatolia, which was a settlement 9 thousand years ago. It consists of two mounds side by side in the east and west directions. The mound in the east, called Çatalhöyük (East), was inhabited in the Neolithic Age, and the mound in the west, called Çatalhöyük (West), was inhabited in the Chalcolithic Age. It is located on a wheat field overlooking the Konya Plain, 52 km southeast of today\'s Konya city, approximately 136 km away from Hasandağı, 11 km north of the Çumra district.</string>
+    <string name="kelebek">Konya Tropical Butterfly Garden has 3500 m2 trip area and ​​7,600 m2 for total use.  1,600 m2 butterfly flight area offers habitat to 15 species of butterflies. There are 98 species of plants in the garden 20.000, butterflies can be observed flying around their nectar plants.</string>
+    <string name="kelebekler">Butterfly Garden</string>
+    <string name="sille">Sille has been inhabited since the Phrygians and has been an important settlement of Konya since the Byzantine period and an important stopping point on the pilgrimage route between Istanbul and Jerusalem, one of the first centers of the Early Christian era. Today, it is a neighborhood of the Selçuklu district. At the same time, it has been declared as an "urban protected area" by the decision of the Konya Cultural Heritage Preservation Regional Board.</string>
+    <string name="foods">Foods</string>
+    <string name="about">About Us</string>
+    <string name="lang">Languages</string>
+    <string name="aboutt">For your requests and suggestions; travel@gmail.com</string>
+    <string name="Main">Places to Travel</string>
+
+
+</resources>

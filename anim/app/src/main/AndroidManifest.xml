@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.anim">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Anim">
+        <activity android:name=".FoodList"></activity>
+        <activity android:name=".About" />
+        <activity android:name=".Food" />
+        <activity android:name=".Kelebek" />
+        <activity android:name=".Sille" />
+        <activity android:name=".Akyokus" />
+        <activity android:name=".Alaeddin" />
+        <activity android:name=".Catalhoyuk" />
+        <activity android:name=".Mevlanaa" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

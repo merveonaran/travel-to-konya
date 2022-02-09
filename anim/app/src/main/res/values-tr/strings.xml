@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel to Konya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mevlana">Mevlana Müzesi, Konya\'da eskiden Mevlana\'nın tekkesi olan yapı kompleksinde 1926\'dan beri faaliyet gösteren bir müzedir. Mevlana Türbesi olarak da bilinir. Mevlana\'nın (Yeşil Kubbe) adı verilen türbesi, dört fil ayağı (kalın sütunlar) üzerine inşa edilmiştir. O günden sonra yapı faaliyetleri hiç bitmemiş ve 19. yüzyılın sonlarına kadar yapılan eklemelerle devam etmiştir. Osmanlı padişahlarının bir kısmının Mevlevi tarikatına mensup olması türbeye özel önem verilmesini ve iyi korunmasını sağlamıştır.</string>
+    <string name="mevlana_name">Mevlana Müzesi</string>
+    <string name="button">Lokasyona git</string>
+    <string name="akyokus">Konya şehrini tamamen görebileceğiniz bir tepedir. Özellikle akşamları şehrin ışıklarıyla eşsiz bir manzara sunuyor. Vaktiniz varsa Akyokuştaki restoranda akşam yemeği için rezervasyon yaptırmanızı öneririz.</string>
+    <string name="Alaeddin_name">Alaeddin Cami</string>
+    <string name="alaeddin">Alâeddin Camii, Konya, Türkiye kalesinin başlıca anıtıdır. Bina,Taht Camii olarak hizmet vermiştir. Rum Selçuklu Sultanları için ve hanedan türbesini içerir. 12. yüzyılın ortaları ile 13. yüzyılın ortaları arasında aşamalar halinde inşa edilmiştir. Hem kale hem de cami, padişah I. Alaeddin Keykubad\'ın (Alâeddin Tepesi ve Alâeddin Camii) adını taşır. </string>
+    <string name="catalhoyuk">Çatalhöyük, 9 bin yıl önce yerleşim yeri olan Orta Anadolu\'da çok büyük bir Neolitik Çağ ve Kalkolitik Çağ yerleşimidir. Doğu ve batı yönlerinde yan yana iki höyükten oluşmaktadır. Doğudaki Çatalhöyük (Doğu) olarak adlandırılan höyük Neolitik Çağ\'da, batıdaki Çatalhöyük (Batı) olarak adlandırılan höyük ise Kalkolitik Çağ\'da iskan edilmiştir. Bugünkü Konya şehrinin 52 km güneydoğusunda, Hasandağı\'na yaklaşık 136 km uzaklıkta, Çumra ilçesinin 11 km kuzeyinde, Konya Ovası\'na hakim bir buğday tarlası üzerinde yer almaktadır.</string>
+    <string name="kelebek">Konya Tropikal Kelebek Bahçesi 3500 m2 gezi alanı ve 7.600 m2 toplam kullanım alanına sahiptir. 1.600 m2 kelebek uçuş alanı, 15 kelebeğe yaşam alanı sunuyor. 20.000 bahçede 98 bitki türü vardır, nektar bitkilerinin etrafında uçan kelebekler gözlemlenebilir.</string>
+    <string name="kelebekler">Kelebekler Vadisi</string>
+    <string name="sille">Frigler\'den beri yerleşim gören Sille, Bizans döneminden beri Konya\'nın önemli bir yerleşim yeri ve Erken Hristiyanlık döneminin ilk merkezlerinden biri olan İstanbul ile Kudüs arasındaki hac güzergahı üzerinde önemli bir durak noktası olmuştur. Günümüzde Selçuklu ilçesine bağlı bir mahalledir. Aynı zamanda Konya Kültür Varlıklarını Koruma Bölge Kurulu kararı ile "kentsel sit alanı" ilan edilmiştir.</string>
+    <string name="foods">Yiyecekler</string>
+    <string name="about">Hakkımızda</string>
+    <string name="lang">Diller</string>
+    <string name="aboutt">İstek ve önerileriniz için; travel@gmail.com</string>
+    <string name="Main">Gezilecek Yerler</string>
+
+</resources>
